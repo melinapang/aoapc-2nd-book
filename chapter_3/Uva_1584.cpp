@@ -26,7 +26,7 @@ int main(){
         for (int i = 0; i < n; i++) if (cmp(s, i, ans)) ans = i; //从0 ，1 位置开始枚举
         for (int i = 0; i < n; i++)
             putchar(s[(ans + i) % n]);
-        putchar('\n'); //细节注意putchar 是输出 char ，不能写成单引号
+        putchar('\n'); //细节注意putchar 是输出 char ，不能写成双引号
     }
 
     return 0;
