@@ -1,4 +1,10 @@
-//2-2韩信点兵
+/*
+ * @Descripttion: 2-2韩信点兵
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-15 15:00:59
+ * @LastEditTime: 2020-03-17 21:00:21
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 //没有多组数据 

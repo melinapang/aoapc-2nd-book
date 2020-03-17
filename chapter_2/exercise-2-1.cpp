@@ -1,4 +1,10 @@
-//2-1 水仙花数
+/*
+ * @Descripttion: 2-1 水仙花数
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-15 15:00:15
+ * @LastEditTime: 2020-03-17 20:59:31
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 

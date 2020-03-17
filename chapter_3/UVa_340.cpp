@@ -1,4 +1,10 @@
-//例题3-4 猜数字游戏的提示（Master-Mind Hints, UVa 340）
+/*
+ * @Descripttion: 例题3-4 猜数字游戏的提示（Master-Mind Hints, UVa 340）
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-16 18:55:12
+ * @LastEditTime: 2020-03-17 20:57:51
+ */
+
 
 #include <bits/stdc++.h>
 #define maxn 1010

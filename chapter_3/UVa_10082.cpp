@@ -1,4 +1,10 @@
-// UVa 10082 : WERTYU
+/*
+ * @Descripttion: // UVa 10082 : WERTYU
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-16 16:57:14
+ * @LastEditTime: 2020-03-17 20:54:51
+ */
+
 
 #include <cstdio>
 

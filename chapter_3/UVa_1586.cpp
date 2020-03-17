@@ -1,6 +1,10 @@
 /*
-    习题3-2 分子量（Molar Mass, ACM/ICPC Seoul 2007, UVa1586）
-*/
+ * @Descripttion:习题3-2 分子量（Molar Mass, ACM/ICPC Seoul 2007, UVa1586） 
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-17 14:36:32
+ * @LastEditTime: 2020-03-17 20:52:48
+ */
+
 
 /*
     自己用栈的做法，但是浮点数有误差， 题目没规定小数位啊

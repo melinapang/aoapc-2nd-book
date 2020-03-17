@@ -1,4 +1,10 @@
-//习题2-3 倒三角形
+/*
+ * @Descripttion: 习题2-3 倒三角形
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-15 15:07:15
+ * @LastEditTime: 2020-03-17 21:00:40
+ */
+
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,11 @@
 /*
-习题3-1 得分（Score, ACM/ICPC Seoul 2005, UVa1585）
-*/
+ * @Descripttion: 习题3-1 得分（Score, ACM/ICPC Seoul 2005, UVa1585）
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-17 11:41:36
+ * @LastEditTime: 2020-03-17 20:55:43
+ */
+
+
 
 #include <bits/stdc++.h>
 #define max 100

@@ -1,5 +1,10 @@
-//习题2-5 分数化小数
-//手动模拟高精度除法
+/*
+ * @Descripttion: 习题2-5 分数化小数 手动模拟高精度除法
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-15 16:52:46
+ * @LastEditTime: 2020-03-17 21:01:35
+ */
+
 
 #include <iostream>
 using namespace std;

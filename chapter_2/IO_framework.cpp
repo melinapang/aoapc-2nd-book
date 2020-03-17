@@ -1,8 +1,13 @@
 /*
-算法竞赛中的输入输出框架
-参考博客： https://blog.csdn.net/xavierdarkness/article/details/80638641
-          https://oi-wiki.org/lang/file-op/
-*/
+ * @Descripttion: 
+  算法竞赛中的输入输出框架
+  参考博客： https://blog.csdn.net/xavierdarkness/article/details/80638641
+            https://oi-wiki.org/lang/file-op/
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-16 10:26:03
+ * @LastEditTime: 2020-03-17 21:02:53
+ */
+
 
 /*
 总结： 可以重定向 freopn 不能重定向 fopen
