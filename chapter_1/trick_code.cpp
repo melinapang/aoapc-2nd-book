@@ -1,4 +1,10 @@
-//教材第一章代码的注意点
+/*
+ * @Descripttion: 教材第一章代码的注意点
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-16 10:22:43
+ * @LastEditTime: 2020-03-17 20:59:57
+ */
+
 /*
 const double PI = acos(-1.0); //弧度制
 printf("%d", 8.0/5.0); //warning 

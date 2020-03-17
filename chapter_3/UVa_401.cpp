@@ -1,4 +1,10 @@
-//例题3-3 回文词（Palindromes, UVa401）
+/*
+ * @Descripttion: 例题3-3 回文词（Palindromes, UVa401）
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-16 17:18:50
+ * @LastEditTime: 2020-03-17 20:57:29
+ */
+
 
 #include <cstdio>
 #include <cctype>

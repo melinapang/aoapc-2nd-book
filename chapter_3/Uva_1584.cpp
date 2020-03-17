@@ -1,5 +1,11 @@
 /*
-例题3-6 环状序列（Circular Sequence, ACM/ICPC Seoul 2004, UVa1584）
+ * @Descripttion: 例题3-6 环状序列（Circular Sequence, ACM/ICPC Seoul 2004, UVa1584）
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-16 21:41:42
+ * @LastEditTime: 2020-03-17 20:58:04
+ */
+
+/*
 处理环形问题技巧 多考虑取模
 */
 #include <bits/stdc++.h>

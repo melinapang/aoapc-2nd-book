@@ -1,10 +1,16 @@
-//例题3-5 生成元（Digit Generator, ACM/ICPC Seoul 2005, UVa1583）
+/*
+ * @Descripttion:习题3-2 分子量（Molar Mass, ACM/ICPC Seoul 2007, UVa1586） 
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-16 19:40:16
+ * @LastEditTime: 2020-03-17 20:53:57
+ */
+
 
 #include <bits/stdc++.h>
 
 using namespace std;
 
-// int main; //方法2
+// int main2; //方法2
 
 //方法1： 暴力枚举 复杂度 O(n) 但是这种方法有局限性，对于求大量数据 就不行了
 

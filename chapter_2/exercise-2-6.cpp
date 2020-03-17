@@ -1,5 +1,11 @@
 /*
-习题2-6 排列
+ * @Descripttion: 习题2-6 排列
+ * @Author: Xiaobin Ren
+ * @Date: 2020-03-15 17:01:49
+ * @LastEditTime: 2020-03-17 21:02:14
+ */
+
+/*
 这个做法有点状压dp的味道 复杂度 O(n)
 
 因为abc:def:ghi=1：2：3，
