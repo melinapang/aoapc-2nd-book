@@ -2,7 +2,7 @@
  * @Description: 例题6-7 树的层次遍历（Trees on the level, Duke 1993, UVa 122）
  * @Author: Xiaobin Ren
  * @Date: 2020-03-25 11:44:15
- * @LastEditTime: 2020-03-25 17:09:33
+ * @LastEditTime: 2020-03-25 17:10:34
  */
 
 #include <bits/stdc++.h>
@@ -54,7 +54,7 @@ void addnote(int v, char* s){
             if (u->right == NULL) u->right = newnode();
             u = u->right;
         }
-    if (u->have_value) failed = true;   //以及赋值过， 输入有误，不能重复赋值
+    if (u->have_value) failed = true;   //已经赋值过， 输入有误，不能重复赋值
     u->v = v;  //给节点复制
     u->have_value = true;
 }
