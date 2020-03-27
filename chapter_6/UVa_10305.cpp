@@ -2,7 +2,7 @@
  * @Description: 例题6-15 给任务排序（Ordering Tasks, UVa 10305）
  * @Author: Xiaobin Ren
  * @Date: 2020-03-27 09:09:59
- * @LastEditTime: 2020-03-27 10:03:43
+ * @LastEditTime: 2020-03-27 10:11:47
  */
 
 #include <bits/stdc++.h>
@@ -36,7 +36,7 @@ bool dfs(int u){
     rep (v, 1, n+1){
         if (G[u][v]){
             if (vis[v] < 0) return false;  //判环
-            else if (!vis[v] && !dfs(v)) return false;  //非连通图
+            else if (!vis[v] && !dfs(v)) return false;  //也可以写成： if(flag[v] < 0)   return false; else if(!flag[v])  dfs(v);
         }
     }
         vis[u] = 1; topo[--t] = u;
@@ -56,8 +56,8 @@ int main(int argc, char const *argv[]){
   //cin.tie(0);
 
     while(scanf("%d%d", &n, &m) != EOF){   
-    //注意此处有个大坑，这个任务的编号不一定都是大于0的
-    //所以不能写成 while(scanf("%d%d", &n, &m) == 2 && n && m) 如果某个任务编号是<=0就不行了
+    //注意此处有个大坑，这个任务可能只有一个， m 可能为 0
+    //所以不能写成 while(scanf("%d%d", &n, &m) == 2 && n && m) 
         memset(G, 0, sizeof G);
         if (n ==0 && m == 0) break;
         rep(i, 1, m+1){
