@@ -39,14 +39,15 @@
 		"ll powmod(ll a, ll b) {ll res=1;a%=mod;assert(b>=0);for(;b;b>>=1){if(b&1)res*=a%mod;a*=a%mod;}return res;}",
 		"ll gcd(ll a, ll b) { return b ? gcd(b, a % b) : a;}",
 		"//head",
-
 		"",
+		"",
+		"$0",
 		"",
         "int main(int argc, char const *argv[]){",   //main()函数
 		"  //ios::sync_with_stdio(false);",
 		"  //cin.tie(0);",
 		"",
-		"    $0",    //最终光标会在这里等待输入
+		"    $1",    //最终光标会在这里等待输入
         "    return 0;", //结束
         "}",
         "",
