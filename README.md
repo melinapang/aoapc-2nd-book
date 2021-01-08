@@ -1,16 +1,11 @@
 ## 刘汝佳《算法竞赛入门经典 第2版》部分代码实现
 ```
 .
-├── ACM_Pattern
-│   ├── ACM_Pattern.pdf
-│   └── 浙江大学ACM模板.pdf
 ├── book_source
 │   ├── 《算法竞赛入门经典  第2版》.pdf
 │   ├── 《算法竞赛入门经典》.pdf
 │   └── 《算法竞赛入门经典：习题与解答》.pdf
 ├── chapter_1
-│   ├── acm-sublime.snippet.json
-│   ├── head_template.json
 │   └── trick_code.cpp
 ├── chapter_2
 │   ├── IO_framework.cpp
@@ -101,9 +96,9 @@
 │   ├── example-8-5.exe
 │   ├── example-8-6.cpp
 │   └── example-8-6.exe
-└── chapter_9
+├── chapter_9
 ├── chapter_10
 ├── chapter_11
-├── chapter_12
+└── chapter_12
 
 ```
