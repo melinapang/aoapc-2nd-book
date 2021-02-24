@@ -84,21 +84,14 @@
 │   └── sub_set.cpp
 ├── chapter_8
 │   ├── UVa_1152.cpp
-│   ├── UVa_1152.exe
 │   ├── UVa_120.cpp
-│   ├── UVa_120.exe
 │   ├── example-8-2.cpp
 │   ├── example-8-3.cpp
-│   ├── example-8-3.exe
 │   ├── example-8-4.cpp
-│   ├── example-8-4.exe
 │   ├── example-8-5.cpp
-│   ├── example-8-5.exe
-│   ├── example-8-6.cpp
-│   └── example-8-6.exe
+│   └── example-8-6.cpp
 ├── chapter_9
 ├── chapter_10
 ├── chapter_11
 └── chapter_12
-
 ```
